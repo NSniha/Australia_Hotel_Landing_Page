@@ -16,7 +16,4 @@ The design follows a premium black-and-white visual system with soft shadows, ro
 
 ---
 
-## Live Preview
-
-```txt
-https://your-live-site-link.com
+## Live Preview: https://steady-madeleine-203274.netlify.app/
