@@ -1,4 +1,5 @@
-<img width="1280" height="800" alt="au-website" src="https://github.com/user-attachments/assets/9e618af8-362c-4800-aece-2a40ade71786" />
+<img width="1280" height="800" alt="au-website (1)" src="https://github.com/user-attachments/assets/cc1634d7-7fae-4491-a0c1-d4973c1040dc" />
+
 
 # Australia Hotel — Premium Hotel Booking Website
 
